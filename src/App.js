@@ -10,6 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          //app 주석인 왜 안달리지
         </p>
         <a
           className="App-link"
